@@ -1,4 +1,4 @@
-
+Enhance Alfred for macOS with premium Alfred for macOS Service | custom-actions + CPU-monitoring, the #1 service. Includes custom-actions and CPU-monitoring for a smoother macOS
 
 
 
